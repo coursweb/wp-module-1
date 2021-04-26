@@ -12,7 +12,6 @@ permalink: /lexique.html
 ### Les thèmes à connaître :
 
 - **Twenty Twenty-One** : le thème par défaut livré avec WordPress 5.6, sorti en décembre 2020.
-
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
 #### Les constructeurs de page ("Page Builders") à connaître :
@@ -27,6 +26,11 @@ permalink: /lexique.html
 - Astra
 - Divi, thème et page-builder (inclus dans l'offre Infomaniak)
 - Hello, thème "vide" prévu pour Elementor
+
+Des avis informés sur le choix des constructeurs:
+
+- Capitaine WP, "[Quel constructeur de pages utiliser en agence ?](https://capitainewp.io/formations/developper-theme-wordpress/page-builders/)"
+-  Jean-Baptiste Audras, "[Gutenberg ou Page Builder : que choisir pour votre site WordPress ?](https://www.whodunit.fr/gutenberg-ou-page-builder-que-choisir-pour-votre-site-wordpress/)"
 
 ### Les extensions à connaître : 
 
@@ -48,3 +52,11 @@ Les blogs connus qui parlent de WordPress:
 
 - WordPress Tavern - https://wptavern.com/
 - WPMarmite, blog francophone - https://wpmarmite.com/
+
+Quelques agences "WordPress" célèbres: 
+
+- 10up
+- HumanMade
+- Whodunit
+- Be API
+- Required

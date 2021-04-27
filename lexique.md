@@ -68,6 +68,9 @@ La gouvernance du projet WordPress: la fondation, Automattic...
 
 - Connaître les règles concernant la marque WordPress: utilisation du logo, utilisation du terme WordPress ou WordCamp.
 - associations régionales, p.ex. en France
+- les sites de documentation (WordPress.org)
+- le canal Slack WP officiel (lié avec WordPress.org)
+- les canaux Slack des communautés: Suisse, Francophonie...
 
 Les meetups et WordCamps
 

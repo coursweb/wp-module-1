@@ -21,7 +21,7 @@ Ce qui est visé à la fin du cours:
 
 Il sera utile de fournir un contenu pré-existant, car on n'aura pas le temps de produire des contenus (images, icônes, textes...). Peut-être utiliser l'une des entreprises fictives du cours Marketing?
 
-## Auto-évaluation
+## Auto-évaluation
 
 Peut-on faire une autoévaluation ? Une évaluation par les pairs?
 

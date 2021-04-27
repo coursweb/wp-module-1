@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lexique
-permalink: /lexique.html
+permalink: lexique.html
 ---
 
 
@@ -11,8 +11,8 @@ permalink: /lexique.html
 
 ### Les thèmes à connaître :
 
-- **Twenty Twenty-One** : le thème par défaut livré avec WordPress 5.6, sorti en décembre 2020.
-- Twenty Nineteen : le précédent thème par défaut, simple et efficace.
+- **[Twenty Twenty-One](https://wordpress.com/theme/twentytwentyone)** : le thème par défaut livré avec WordPress 5.6, sorti en décembre 2020.
+- **[Twenty Nineteen](https://wordpress.com/theme/twentynineteen)** : le thème par défaut de 2019, simple et efficace (pour un blog).
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
 #### Les constructeurs de page ("Page Builders") à connaître :
@@ -55,10 +55,12 @@ Fichiers à connaître:
 - emplacement des uploads
 - renommer dossier d'une extension en FTP
 - fichiers du thème
+- la base de données (comment l'afficher, l'exporter)
 - modifier un footer.php
 - thème enfant
 - le htaccess
 - multisite
+
 
 ### La communauté WordPress :
 
@@ -73,7 +75,7 @@ Quelques agences "WordPress" célèbres:
 
 - 10up
 - HumanMade
-- Whodunit (en France)
+- Whodunit (en France) - agence française qui contribue au code source WP
 - Be API (en France)
 - Required (en Suisse)
 - Inpsyde (en Allemagne) - auteurs de plugins 
@@ -83,3 +85,8 @@ Les blogs connus qui parlent de WordPress:
 
 - WordPress Tavern - https://wptavern.com/
 - WPMarmite, blog francophone - https://wpmarmite.com/
+
+Quelques personnalités de la communauté : 
+
+- JB Audras: https://jeanbaptisteaudras.com/
+

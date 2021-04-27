@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Module WordPress
-permalink: /index.html
+permalink: index.html
 ---
 
 # Module WordPress
@@ -41,12 +41,12 @@ Ce qui sera évalué:
 
 
 
-- 23 avril : séance 1
-- 30 avril : séance 2
-- 7 mai : séance 3
+- 23 avril : séance 1 - premières questions.
+- 30 avril : séance 2 - installer WP / la communauté.
+- 7 mai : séance 3 - les thèmes / les extensions.
 
-- 21 mai : séance 4 / test intermédiaire
-- 28 mai : séance 5
-- 4 juin : séance 6
-- 11 juin : séance 7
-- 18 juin: séance 8 / rendu final
+- 21 mai : séance 4 - test intermédiaire.
+- 28 mai : séance 5 -  l'interface.
+- 4 juin : séance 6 - les "page builders".
+- 11 juin : séance 7 - les fichiers techniques / créer un thème enfant.
+- 18 juin: séance 8 / rendu final.

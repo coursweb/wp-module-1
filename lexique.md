@@ -72,16 +72,16 @@ La gouvernance du projet WordPress: la fondation, Automattic...
 - le canal Slack WP officiel (lié avec WordPress.org)
 - les canaux Slack des communautés: Suisse, Francophonie...
 
-Les meetups et WordCamps
+- Les meetups et WordCamps
 
 Quelques agences "WordPress" célèbres: 
 
-- 10up
-- HumanMade
-- Whodunit (en France) - agence française qui contribue au code source WP
+- 10up – a contribué au site [WhiteHouse.gov](https://10up.com/blog/2021/10up-helps-launch-a-new-whitehouse-gov/), lancé en 6 semaines.
+- [HumanMade](https://humanmade.com/)
+- [Whodunit](https://www.whodunit.fr/) (en France) - agence française qui contribue au code source WP
 - Be API (en France)
 - Required (en Suisse)
-- Inpsyde (en Allemagne) - auteurs de plugins 
+- Inpsyde (en Allemagne) - agence, auteurs de plugins connus.
 
 
 Les blogs connus qui parlent de WordPress:

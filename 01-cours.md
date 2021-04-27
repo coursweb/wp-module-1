@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cours 1
-permalink: /cours-1.html
+permalink: cours-1.html
 ---
 
 # Cours 1

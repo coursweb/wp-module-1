@@ -12,6 +12,7 @@ permalink: /lexique.html
 ### Les thèmes à connaître :
 
 - **Twenty Twenty-One** : le thème par défaut livré avec WordPress 5.6, sorti en décembre 2020.
+- Twenty Nineteen : le précédent thème par défaut, simple et efficace.
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
 #### Les constructeurs de page ("Page Builders") à connaître :
@@ -32,6 +33,8 @@ Des avis informés sur le choix des constructeurs:
 - Capitaine WP, "[Quel constructeur de pages utiliser en agence ?](https://capitainewp.io/formations/developper-theme-wordpress/page-builders/)"
 -  Jean-Baptiste Audras, "[Gutenberg ou Page Builder : que choisir pour votre site WordPress ?](https://www.whodunit.fr/gutenberg-ou-page-builder-que-choisir-pour-votre-site-wordpress/)"
 
+Sujet à débattre ?
+
 ### Les extensions à connaître : 
 
 - WooCommerce
@@ -44,19 +47,39 @@ Des avis informés sur le choix des constructeurs:
 - Duplicator, pour migrer un site
 - ACF, Advanced Custom Fields
 
+### Aspects techniques
+
+Fichiers à connaître: 
+
+- le fichier wp-config.php
+- emplacement des uploads
+- renommer dossier d'une extension en FTP
+- fichiers du thème
+- modifier un footer.php
+- thème enfant
+- le htaccess
+- multisite
+
 ### La communauté WordPress :
 
 La gouvernance du projet WordPress: la fondation, Automattic...
 
-Les blogs connus qui parlent de WordPress:
+- Connaître les règles concernant la marque WordPress: utilisation du logo, utilisation du terme WordPress ou WordCamp.
+- associations régionales, p.ex. en France
 
-- WordPress Tavern - https://wptavern.com/
-- WPMarmite, blog francophone - https://wpmarmite.com/
+Les meetups et WordCamps
 
 Quelques agences "WordPress" célèbres: 
 
 - 10up
 - HumanMade
-- Whodunit
-- Be API
-- Required
+- Whodunit (en France)
+- Be API (en France)
+- Required (en Suisse)
+- Inpsyde (en Allemagne) - auteurs de plugins 
+
+
+Les blogs connus qui parlent de WordPress:
+
+- WordPress Tavern - https://wptavern.com/
+- WPMarmite, blog francophone - https://wpmarmite.com/

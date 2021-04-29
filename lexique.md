@@ -76,8 +76,8 @@ La gouvernance du projet WordPress: la fondation, Automattic...
 
 Quelques agences "WordPress" célèbres: 
 
-- 10up – a contribué au site [WhiteHouse.gov](https://10up.com/blog/2021/10up-helps-launch-a-new-whitehouse-gov/), lancé en 6 semaines.
-- [HumanMade](https://humanmade.com/)
+- 10up (Etats-Unis) – a contribué au site [WhiteHouse.gov](https://10up.com/blog/2021/10up-helps-launch-a-new-whitehouse-gov/), lancé en 6 semaines.
+- [HumanMade](https://humanmade.com/) (Royaume-Uni, avec un co-fondateur suisse, [Noel Tock](https://www.noeltock.com/))
 - [Whodunit](https://www.whodunit.fr/) (en France) - agence française qui contribue au code source WP
 - Be API (en France)
 - Required (en Suisse)
@@ -88,8 +88,11 @@ Les blogs connus qui parlent de WordPress:
 
 - WordPress Tavern - https://wptavern.com/
 - WPMarmite, blog francophone - https://wpmarmite.com/
+- trouvez-en d'autres!
 
 Quelques personnalités de la communauté : 
 
-- JB Audras: https://jeanbaptisteaudras.com/
-
+- JB Audras: contributeur ("core commiter") hyper-actif, en France: https://jeanbaptisteaudras.com/
+- Patricia Brun-Torre: organisatrice de meetups et du WordCamp Genève : https://patriciabt.com/
+- Pascal Birchler: probablement le seul Suisse contributeur au noyau de WordPress ("core commiter"). Travaille chez Google à Zurich, sur la [technologie AMP](https://cours-web.ch/divers/performance/) en lien avec WordPress. https://pascalbirchler.com/
+- trouvez-en d'autres!

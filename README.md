@@ -11,7 +11,7 @@ Un module d'enseignement - initiation à WordPress
 
 https://eracom-id492.github.io/cours-wordpress/
 
-http://cours-web.ch/wp-module-1/
+https://cours-web.ch/wp-module-1/
 
 
 

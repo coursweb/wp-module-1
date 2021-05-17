@@ -14,7 +14,7 @@ permalink: referentiel.html
 
 
 
-- Support de cours: https://cours-web.ch/wp/
+- Support de cours général sur WordPress: https://cours-web.ch/wp/
 
 - La documentation de WordPress.org : https://fr.wordpress.org/support/
 

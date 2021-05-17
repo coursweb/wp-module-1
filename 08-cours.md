@@ -6,5 +6,6 @@ permalink: cours-8.html
 
 # Cours 8
 
-rendu final.
+Rendu final:
 
+Un site web WordPress.

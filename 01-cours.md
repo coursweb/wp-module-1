@@ -4,9 +4,7 @@ title: Cours 1
 permalink: cours-1.html
 ---
 
-# Cours 1
-
-
+## Introduction à WordPress
 
 Durant la première session, réponses à quelques questions initales pour:
 

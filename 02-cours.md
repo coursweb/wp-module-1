@@ -4,8 +4,6 @@ title: Cours 2
 permalink: cours-2.html
 ---
 
-# Cours 2
-
 ## Installer WordPress
 
 Différentes procédures d'installation.

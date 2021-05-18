@@ -42,6 +42,6 @@ Le système WordPress en lui-même est gratuit. Le prix d'un site WordPress peut
 - Design et développement d'un site unique: 5000 à 15'000 CHF.
 - Développements de fonctionnalités pour un site d'entreprise, e-commerce, etc: 20'000 CHF et plus.
 
-## Comment ça fonctionne?
+## Comment ça fonctionne?
 
 C'est ce que nous allons découvrir durant les prochaines séances.

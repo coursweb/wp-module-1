@@ -15,7 +15,7 @@ Les élèves cherchent à répondre aux questions suivantes:
 
 ## "What ?" - qu'est-ce que WordPress ?
 
-Nous déterminons que c'est un CMS, un système de gestion de contenus. Il existe un grand nombre de tels systèmes, les plus connus étant: Joomla, Drupal, Shopify, Webflow, Wix. On mentionne également Tocco ( [Tocco Business Framework](https://www.tocco.ch/)).
+Nous déterminons que c'est un CMS, un système de gestion de contenus. Il existe un grand nombre de tels systèmes, les plus connus étant: Joomla, Drupal, Shopify, Webflow, Wix. On mentionne également Tocco ([Tocco Business Framework](https://www.tocco.ch/)).
 
 ## Why? – pourquoi apprendre WordPress?
 

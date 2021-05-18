@@ -8,14 +8,14 @@ permalink: cours-3.html
 
 Thèmes et extensions
 
-### Les thèmes à connaître :
+### Quelques thèmes à connaître :
 
 - **[Twenty Twenty-One](https://wordpress.com/theme/twentytwentyone)** : le thème par défaut livré avec WordPress 5.6, sorti en décembre 2020.
 - **[Twenty Nineteen](https://wordpress.com/theme/twentynineteen)** : le thème par défaut de 2019, simple et efficace (pour un blog).
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
 
-### Les extensions à connaître : 
+### Quelques extensions à connaître : 
 
 Une liste un peu arbitraire d'extensions utiles, connues, recommandées...
 

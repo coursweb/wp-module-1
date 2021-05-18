@@ -19,6 +19,9 @@ Vidéos "mode d'emploi activation":
 - [Vidéo partagée par Filipe](https://eduvaud.sharepoint.com/sites/msteams_25c8b2/Documents%20partages/Programmation%20-%20M.%20Schmalstieg/activation_hebergement.mov) dans Teams (le 7 mai): comment ajouter l'hébergement gratuit à votre domaine.
 - [Vidéo partagée par Thibault](https://eduvaud.sharepoint.com/sites/msteams_25c8b2/Documents%20partages/Programmation%20-%20M.%20Schmalstieg/installation-sous-domaine-infomaniak.mov) dans Teams (le 30 avril): comment créer un sous-domaine et installer WordPress.
 
+Un mode d'emploi détaillé a été ajouté dans le cours "Serveurs":
+
+https://cours-web.ch/serveurs/infomaniak.html
 
 ## La communauté WP
 

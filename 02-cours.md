@@ -34,7 +34,7 @@ Des projets peuvent cependant utiliser librement l'abbréviation "WP". Par exemp
 
 Où trouver les ressources : thèmes, extensions, documentation...
 
-- Le site WPFR.net est l'un des "centres" de la communauté francophone. Il est géré par l'assocaition "WordPress Francophone", et propose: un [forum d'entraide](https://wpfr.net/support/) en français, 
+- Le site WPFR.net est l'un des "centres" de la communauté francophone. Il est géré par l'association "WordPress Francophone", et propose: un [forum d'entraide](https://wpfr.net/support/) en français, 
 - Le [Slack WordPress-fr](https://wordpressfr.slack.com/) : forum de discussion en temps réel sur Slack. Un endroit pour poser des questions, ou collaborer sur des projets (traduction, organisation d'événements...)
 - Vidéos (conférences, tutoriels) sur WordPress.tv. Il y a [une section en français](https://wordpress.tv/language/frenchfrancais/).
 

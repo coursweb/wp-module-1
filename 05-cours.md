@@ -4,7 +4,7 @@ title: Cours 5
 permalink: cours-5.html
 ---
 
-## 28 mai : séance 5 -  l'interface.
+## 28 mai : séance 5 - l'interface.
 
 Gérer le contenu d'un site.
 

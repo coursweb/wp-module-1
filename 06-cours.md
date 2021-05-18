@@ -4,6 +4,6 @@ title: Cours 6
 permalink: cours-6.html
 ---
 
-# Cours 6
+## séance 6 - les "page builders".
 
 les "page builders".

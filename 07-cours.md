@@ -4,6 +4,6 @@ title: Cours 7
 permalink: cours-7.html
 ---
 
-# Cours 7
+## 11 juin : séance 7 - les fichiers techniques
 
  les fichiers techniques / créer un thème enfant.

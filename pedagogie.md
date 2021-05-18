@@ -15,15 +15,21 @@ Ce qui est visé à la fin du cours:
 - Mettre en place un site WordPress.
 - Installer et configurer un thème.
 - Installer et configurer une extension (p.ex. formulaire de contact).
-- Concevoir une page d'accueil / landing page (présentation d'un produit).
+- Concevoir une page d'accueil / landing page (utiliser des blocs).
 - Créer un menu.
-- Créer un pied de page crédible.
+- Créer un pied de page.
 
 Il sera utile de fournir un contenu pré-existant, car on n'aura pas le temps de produire des contenus (images, icônes, textes...). Peut-être utiliser l'une des entreprises fictives du cours Marketing?
 
 ## Auto-évaluation
 
-Peut-on faire une autoévaluation ? Une évaluation par les pairs?
+Peut-on faire une autoévaluation ? Une évaluation par les pairs? Qu'en est-il de la *métacognition* dans ce module de cours?
+
+## Evaluations
+
+- Les critères de l'évaluation en fin de cours. 
+- Evaluations formatives pour permettre aux élèves de vérifier leur progrès. 
+
 
 ## Module B IFFP
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cours 6
+title: Cours 6 - Page builders
 permalink: cours-6.html
 ---
 

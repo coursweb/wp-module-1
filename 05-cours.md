@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cours 5
+title: Cours 5 - L'interface
 permalink: cours-5.html
 ---
 

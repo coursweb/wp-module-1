@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cours 1
+title: Cours 1 - Intro
 permalink: cours-1.html
 ---
 

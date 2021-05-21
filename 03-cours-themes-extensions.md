@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cours 3
+title: Cours 3 - Thèmes + extensions
 permalink: cours-3.html
 ---
 

@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Référentiel
-permalink: referentiel.html
+title: Références et liens
+permalink: references.html
 ---
 
+Liens de sites réalisés durant ce module:
 
+- https://prog-s4.sandra-tanner.ch/
+- https://blog.simonovski.ch/
 
 # Référentiel
 

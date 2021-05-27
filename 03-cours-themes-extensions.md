@@ -14,6 +14,8 @@ Thèmes et extensions
 - **[Twenty Nineteen](https://wordpress.com/theme/twentynineteen)** : le thème par défaut de 2019, simple et efficace (pour un blog).
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
+Un thème récent et intéressant, conçu pour l'éditeur Gutenberg: [Aino](https://wpaino.com/), par Elmastudio.
+
 
 ### Quelques extensions à connaître : 
 

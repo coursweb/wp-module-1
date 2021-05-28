@@ -20,11 +20,7 @@ Il pourra contenir des articles comme:
 
 Gérer le contenu d'un site.
 
-- gérer les contenus, publier.
-- utiliser les taxonomies
-- les menus
-- les widgets
-- l'interface d'édition
+
 
 Dans un premier temps, effectuer en direct quelques actions:
 
@@ -53,3 +49,6 @@ Lire https://cours-web.ch/wp/contenus.html
 - Construire le menu. Utiliser une catégorie ou étiquette.
 - Comprendre ce qu'est une "[vue archive](https://cours-web.ch/wp/structure.html)".
 
+### Autres points qu'il faudra voir:
+  
+- les widgets

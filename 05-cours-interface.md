@@ -31,17 +31,25 @@ Dans un premier temps, effectuer en direct quelques actions:
 - Créer une Page: "Ceci est mon blog d'apprentissage"... Brève présentation.
 - Utilisation de l'éditeur de blocs.
 - L'action de publier, les statuts (brouillon, relecture).
-- Ajout d'images.
-- Créer des articles: "L'interface d'édition de WordPress, voici les choses à savoir".
+- Ajout d'images. Ce qui se passe quand une image est uploadée. Voir https://cours-web.ch/wp/images.html
+- Créer des articles: "L'interface d'édition de WordPress, voici les choses à savoir" (créer un article qui teste les divers blocs disponibles).
 - Ajouter des "Etiquettes" aux articles, des "Catégories".
-- Découvrir l'édition rapide de plusieurs articles.
+- Découvrir l'édition rapide de plusieurs articles (pour ajouter p.ex. des catégories).
 
-Concept de Pages vs Articles.
+### Concept de Pages vs Articles.
 
-Le "Customizer"
+Il est important de comprendre les différences entre ces types de contenus:
+
+- Les Pages: peuvent avoir des modèles de page différents.
+- Une Page peut s'afficher en page d'accueil.
+
+Lire https://cours-web.ch/wp/contenus.html
+
+### Le "Customizer"
 
 - Découvrir les réglages du thème
 - Définir une page d'accueil.
 - Créer une page "blog".
-- Construire le menu.
+- Construire le menu. Utiliser une catégorie ou étiquette.
+- Comprendre ce qu'est une "[vue archive](https://cours-web.ch/wp/structure.html)".
 

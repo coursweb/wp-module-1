@@ -68,3 +68,8 @@ Notamment:
 > Amorcé par le développement de l’éditeur Gutenberg, le projet full site editing (FSE) de WordPress, qui pourrait être lancé avec la version 5.8 en juillet prochain, constitue la nouvelle « *expérience de gestion de site native* » du CMS. 
 
 Lire un article par Alexandra Patard: "[Tout savoir sur Full Site Editing](https://www.blogdumoderateur.com/wordpress-full-site-editing-evolution-cms/)".
+
+Pour pouvoir tester comment fonctionne le Full Site Editing:
+
+- Installer l'extension [Gutenberg](https://fr.wordpress.org/plugins/gutenberg/)
+- Installer le thème expérimental [TT1 Blocks](https://wordpress.org/themes/tt1-blocks/) (une version expérimentale basée sur des blocs du thème Twenty Twenty-One)

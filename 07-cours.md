@@ -18,4 +18,4 @@ Les extensions:
 
 - Comment trouver le dossier des extensions: c'est wp-content/plugins.
 - Désactiver une extension en la renommant.
-- Trouver le fichier wp-config.php, avec l'identifiant de la base de données.
+- Trouver le fichier wp-config.php, qui contient l'identifiant de la base de données.

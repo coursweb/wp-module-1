@@ -15,6 +15,12 @@ permalink: lexique.html
 - **[Twenty Nineteen](https://wordpress.com/theme/twentynineteen)** : le thème par défaut de 2019, simple et efficace (pour un blog).
 - [Underscores](https://underscores.me/) : un "starter theme", souvent utilisé comme base pour le développement d'un thème personnalisé. (il en existe d'autres, comme [WP-Rig](https://wprig.io/)).
 
+### Quelques thèmes de qualité et simples d'utilisation :
+
+- **Aino**, par Elma Studio : https://wpaino.com/
+- Les thèmes d’Anders Noren : https://andersnoren.se/
+- **Seedlet**, un thème d'Automattic: https://wordpress.com/theme/seedlet
+
 #### Les constructeurs de page ("Page Builders") à connaître :
 
 - Elementor ("le Photoshop de l’édition de contenu web")

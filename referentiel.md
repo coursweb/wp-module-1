@@ -8,6 +8,8 @@ Liens de sites réalisés durant ce module:
 
 - https://prog-s4.sandra-tanner.ch/
 - https://blog.simonovski.ch/
+- https://prog.regulier.ch/
+- https://arthur-boon.ch/
 
 # Référentiel
 
